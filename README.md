@@ -9,3 +9,15 @@ task is a clustering model that helps the main task detect data drift in an unsu
 The second bypass task is a generation model to generate old data to address catastrophic forgetting 
 in new model iterations and the storage cost issue caused by accumulating old data. 
 ![图片描述](Framework.jpg)
+
+# Environment Setup
+`pip install -r requirement.txt`
+
+# Citation
+@article{zha2025nids,  
+&nbsp;&nbsp;&nbsp;&nbsp;title={A-NIDS: Adaptive Network Intrusion Detection System Based on Clustering and Stacked CTGAN},  
+&nbsp;&nbsp;&nbsp;&nbsp;author={Zha, Chao and Wang, Zhiyu and Fan, Yifei and Bai, Bing and Zhang, Yinjie and Shi, Sainan and Zhang, Ruyun},  
+&nbsp;&nbsp;&nbsp;&nbsp;journal={IEEE Transactions on Information Forensics and Security},  
+&nbsp;&nbsp;&nbsp;&nbsp;year={2025},  
+&nbsp;&nbsp;&nbsp;&nbsp;publisher={IEEE}  
+}
