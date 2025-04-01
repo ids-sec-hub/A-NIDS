@@ -1,4 +1,4 @@
-# A-NIDS
+# A-NIDS: Adaptive Network Intrusion Detection System Based on Clustering and Stacked CTGAN
 Existing research often assumes that training and testing data are static and identically distributed, 
 whereas in reality, data drift is inevitable. Moreover, to enhance model versatility and detection 
 performance, models have become increasingly complex, posing challenges to real time deployment. 
